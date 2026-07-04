@@ -13,6 +13,7 @@ Console.WriteLine("\n============================================");
 Console.WriteLine($"Valor do frete: R$ {valorFrete:F2}");
 Console.WriteLine($"Valor total da compra: R$ {valorTotal:F2}");
 Console.WriteLine("============================================");
+
 static double CalcularFrete(double valorCompra)
 {
     if (valorCompra >= 300)
