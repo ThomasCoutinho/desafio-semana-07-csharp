@@ -1,5 +1,6 @@
 ﻿Console.WriteLine("============================================");
-Console.WriteLine("            Fila de atendimento"            );
+Console.WriteLine("            Fila de atendimento             ");
+Console.WriteLine("            First In, First Out             ");
 Console.WriteLine("============================================");
 
 Queue<string> fila = new Queue<string>();
