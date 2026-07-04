@@ -1,0 +1,183 @@
+Desafio Semana 7
+------------------------------------------
+Desafio 1 — Sistema de Aprovação de Alunos
+------------------------------------------
+Cenário
+Você trabalha em uma escola e precisa criar uma rotina que informe se um aluno foi aprovado, está em recuperação ou foi reprovado.
+Tarefa
+Receber:
+Nome do aluno
+Nota 1
+Nota 2
+Calcular a média e exibir:
+Aprovado → média >= 7
+Recuperação → média >= 5 e < 7
+Reprovado → média < 5
+O que estão praticando: 
+✅ Variáveis
+✅ Operadores aritméticos
+✅ Estrutura de controle
+✅ Funções
+✅ Operadores relacionais
+
+-------------------------------
+Desafio 2 — Controle de Estoque
+-------------------------------
+Cenário
+Uma loja precisa saber se um produto precisa ser reposto.
+Tarefa
+Receber:
+Nome do produto
+Quantidade atual
+Regras:
+Menor que 5 → Estoque Crítico
+Entre 5 e 10 → Estoque Baixo
+Acima de 10 → Estoque OK
+O que estão praticando: 
+✅ If/Else
+✅ Operadores relacionais
+✅ Entrada de dados
+✅ Variáveis
+
+--------------------------------
+Desafio 3 — Fila de Atendimento
+--------------------------------
+Cenário
+Você está desenvolvendo um sistema para uma clínica.
+Os pacientes entram na fila e o primeiro que chega é o primeiro atendido.
+Tarefa
+Criar uma Queue com pacientes.
+Adicionar:
+Maria
+João
+Pedro
+Atender o primeiro paciente.
+Mostrar:
+Quem foi atendido
+Quem está aguardando
+O que estão praticando: 
+✅ Queue
+✅ Estruturas de dados
+✅ Conceito FIFO
+
+-----------------------------------
+Desafio 4 — Histórico de Navegação
+-----------------------------------
+Cenário
+Quando você acessa páginas na internet, o botão "Voltar" funciona usando pilha.
+Tarefa
+Adicionar páginas:
+Home
+Produtos
+Carrinho
+Simular o usuário clicando em voltar.
+O que estão praticando: 
+✅ Stack
+✅ Conceito LIFO
+✅ Estruturas de dados
+
+-----------------------------
+Desafio 5 — Sistema de Login
+-----------------------------
+Cenário
+Você precisa validar o acesso de um usuário.
+Tarefa
+Criar:
+Usuário correto: admin
+Senha correta: 123456
+Permitir acesso apenas quando ambos forem válidos.
+O que estão praticando: 
+✅ Operadores lógicos
+✅ Estrutura de controle
+✅ Variáveis
+
+-----------------------------------------------
+Desafio 6 — Cadastro de Produtos com Dicionário
+-----------------------------------------------
+Cenário
+Uma loja deseja consultar rapidamente o preço dos produtos.
+Tarefa
+Criar um dicionário contendo:
+Mouse → 80
+Teclado → 120
+Monitor → 900
+Perguntar o nome do produto e mostrar o preço.
+O que estão praticando: 
+✅ Dictionary
+✅ Busca de dados
+✅ Estrutura de controle
+
+-------------------------------------
+Desafio 7 — Controle de Gastos do Mês
+-------------------------------------
+Cenário
+Você está criando um aplicativo simples de finanças pessoais.
+Tarefa
+Criar uma lista contendo gastos:
+150
+250
+400
+80
+Calcular:
+Total gasto
+Média de gastos
+Mostrar uma mensagem:
+Acima de 200 → Gastos elevados
+Caso contrário → Gastos controlados
+O que estão praticando: 
+✅ List
+✅ Operadores aritméticos
+✅ Estruturas de controle
+
+------------------------------------------------------
+Desafio 8 — Sistema de Frete (Mais próximo do mercado)
+------------------------------------------------------
+Cenário
+Uma loja virtual precisa calcular o frete de um pedido.
+Tarefa
+Receber:
+Valor da compra
+Regras:
+Acima de R$ 300 → Frete grátis
+Entre R$ 200 e R$ 299 → Frete R$ 15
+Menor que R$ 200 → Frete R$ 30
+Mostrar valor final.
+O que estão praticando: 
+✅ If/Else
+✅ Operadores relacionais
+✅ Operadores aritméticos
+✅ Funções
+
+------------------------------------------------------------------
+Desafio 9 — Controle de Chamados de TI (Projeto mais profissional)
+------------------------------------------------------------------
+Cenário
+Você trabalha em uma empresa e precisa controlar chamados de suporte.
+Tarefa
+Utilizar uma fila para armazenar chamados.
+Adicionar:
+Impressora não funciona
+Computador lento
+Problema no e-mail
+Atender um chamado e mostrar os restantes.
+O que estão praticando: 
+✅ Queue
+✅ Conceito usado em Service Desk
+✅ Estruturas de dados reais
+
+----------------------------------
+Desafio 10 — Sistema de Permissões
+----------------------------------
+Cenário
+Você está desenvolvendo um sistema interno para uma empresa.
+Cada usuário possui um cargo:
+Admin
+Gerente
+Funcionário
+Cada cargo possui permissões diferentes.
+Tarefa
+Receber o cargo e mostrar a permissão correspondente usando switch
+O que estão praticando: 
+✅ Switch
+✅ Estruturas de controle
+✅ Cenário corporativo
