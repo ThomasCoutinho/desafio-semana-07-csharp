@@ -7,4 +7,5 @@
   <Project Path="Desafio6CadastroDeProdutosComDicionario/Desafio6CadastroDeProdutosComDicionario.csproj" />
   <Project Path="Desafio7ControleDeGastosDoMes/Desafio7ControleDeGastosDoMes.csproj" />
   <Project Path="Desafio8SistemaDeFrete/Desafio8SistemaDeFrete.csproj" />
+  <Project Path="Desafio9ControleDeChamadosDeTI/Desafio9ControleDeChamadosDeTI.csproj" />
 </Solution>
