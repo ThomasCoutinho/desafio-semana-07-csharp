@@ -22,3 +22,4 @@ Console.WriteLine("============================================");
 Console.WriteLine($"\nSaindo de: {ultimaPag}");
 
 Console.WriteLine($"\nVoltando para: {historico.Peek()}");
+Console.WriteLine("\n============================================");
