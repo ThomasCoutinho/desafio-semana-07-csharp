@@ -4,4 +4,5 @@
   <Project Path="Desafio3FilaDeAtendimento/Desafio3FilaDeAtendimento.csproj" />
   <Project Path="Desafio4HistoricoDeNavegação/Desafio4HistoricoDeNavegacao.csproj" />
   <Project Path="Desafio5SistemaDeLogin/Desafio5SistemaDeLogin.csproj" />
+  <Project Path="Desafio6CadastroDeProdutosComDicionario/Desafio6CadastroDeProdutosComDicionario.csproj" />
 </Solution>
