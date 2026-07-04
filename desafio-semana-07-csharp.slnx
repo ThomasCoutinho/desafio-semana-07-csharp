@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Desafio10SistemaDePermissoes/Desafio10SistemaDePermissoes.csproj" />
   <Project Path="Desafio1SistemaDeAprovaçãoDeAlunos/Desafio1SistemaDeAprovaçãoDeAlunos.csproj" />
   <Project Path="Desafio2ControleDeEstoque/Desafio2ControleDeEstoque.csproj" />
   <Project Path="Desafio3FilaDeAtendimento/Desafio3FilaDeAtendimento.csproj" />
